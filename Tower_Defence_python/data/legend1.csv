@@ -1,0 +1,5 @@
+Symbol,Type,Asset
+R,Road,assets/map1/road.png
+B,Buildable Terrain,assets/map1/buildable_terrain.png
+S,Spawn Point,assets/map1/start.png
+E,Exit Point,assets/map1/end.png
